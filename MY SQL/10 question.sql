@@ -1,6 +1,4 @@
 
-
-
 Q: Insert a student with StudentID 13, RegID 1012, name Arun, course Python, place Kochi, and phone number +919876543210.
 
 INSERT INTO Students
